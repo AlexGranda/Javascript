@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curso de Javascript básico</title>
+    <script src="javascript.js"></script>
+    <style>
+        .rojo {
+            background-color: #f00;
+        }
+        .amarillo {
+            background-color: #ff0;
+        }
+        .verde {
+            background-color: #0f0;
+        }
+        .azul {
+            background-color: #00f;
+        }
+        .enciende {
+            background-color: #ff9;
+        }
+        .apaga {
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <p>Este es el lanzador</p>
+    <img id="ace" src="ace.png" alt="Ace, hermano de luffy" width="220" height="238">
+
+    <p>Selecciona el texto de alguna de las cajas, por medio de botón sostenido, para cambiar el
+    color de fondo</p>
+    <form id="forma" name="forma" method="post" action="">
+        <p>
+            <input type="text" name="rojo" id="rojo" value="rojo">
+        </p>
+        <p>
+            <input type="text" name="verde" id="verde" value="verde">
+        </p>
+        <p>
+            <input type="text" name="amarillo" id="amarillo" value="amarillo">
+        </p>
+        <p>
+            <input type="text" name="azul" id="azul" value="azul">
+        </p>
+    </form>
+
+    <p>Escribe sobre la caja de entrada en letras minúsculas y Javascript las pasará a
+    mayúsculas</p>
+    <form id="form1" name="form1" method="post">
+        <label for="caja">Escribe aquí:</label>
+        <input name="caja" type="text" id="caja" size="60">
+    </form>
+    <p>&nbsp;</p>
+
+    <form id="form2" name="form2" method="post">
+        <p>
+            <label for="campo1">Campo 1</label>
+            <input name="campo1" type="text" id="campo1" size="60">
+        </p>
+        <p>
+            <label for="campo2">Campo 2</label>
+            <input name="campo2" type="text" id="campo2" size="60">
+        </p>
+    </form>
+
+    <form id="forma2" name="forma2" method="post" action="">
+        <p>
+            <label for="clave1">Clave 1</label>
+            <input name="clave1" type="text" id="clave1" size="60">
+        </p>
+        <p>
+            <label for="clave2">Clave 2</label>
+            <input name="clave2" type="text" id="clave2" size="60">
+        </p>
+        <p>
+            <input type="submit" name="enviar" id="enviar" value="Enviar">
+        </p>
+    </form>
+
+</body>
+</html>
