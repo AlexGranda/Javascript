@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forma</title>
+    <style type="text/css">
+        :invalid {
+            background-color: #ffdddd;
+        }
+        :valid {
+            background-color: #ddffdd;
+        }
+        :required {
+            border-color: #800000;
+            border-width: 3px;
+        }
+    </style>
+</head>
+<body>
+<form action="" method="post">
+    Campo Normal: <input type="text"><br/>
+    Campo Email: <input type="email"><br/>
+    Campo URL: <input type="url"><br/>
+    Campo Tel: <input type="tel"></input><br/>
+    Campo numérico: <input type="number" min="18" max="40" value="18" step="2"><br/>
+    Rango: <input type="range" min="0.0" max="1.0" step="0.2" value="0.5"><br/>
+    Hora: <input type="time"><br/>
+    Fecha: <input type="date"><br/>
+    Fecha y hora: <input type="datetime"><br/>
+    Fecha y hora local: <input type="datetime-local"><br/>
+    Mes: <input type="month"><br>
+    Semana: <input type="week"><br>
+    Color: <input type="color"><br><br><br>
+    <label for="nombre" id="label1">Nombre:</label><br>
+    <input type="text" name="nombre" id="nombre" required autofocus><br><br>
+    <label for="apellidos" id="label2">Apellidos: </label><br>
+    <input type="text" id="apellidos" required><br><br>
+    <label for="email" id="label3">Email:</label><br>
+    <input type="email" id="email" placeholder="nombre@dominio.com"><br><br>
+    <label for="edad">Edad:</label><br>
+    <input type="number" id="edad" step="1" min="18"><br><br>
+    <label for="fechaNacimiento">Fecha de Nacimiento</label><br>
+    <input type="date" id="fechaNacimiento"><br><br>
+    <label for="departamente">Departamento: </label><br>
+    <input type="text" id="departamente" list="departamento">
+    <datalist id="departamento">
+        <option value="Ingeniería"></option>
+        <option value="Contabilidad"></option>
+        <option value="Recursos Humanos"></option>
+        <option value="Ventas"></option>
+        <option value="Informática"></option>
+    </datalist>
+    <br><br>
+    <label>Género: </label><br>
+    <input type="radio" checked="checked">M
+    <input type="radio">F
+    <br><br>
+    <label>Suscriptor: </label><br>
+    <input type="checkbox"><br>
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+</form>
+</body>
+</html>
