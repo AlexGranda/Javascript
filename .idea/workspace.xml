@@ -2,41 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bd73284-6246-4bd3-a96a-075ef539b960" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/bueno.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/bueno_muerto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/derecha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/disparo_bueno.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/disparo_malo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/fondovertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/fondovertical_jefe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/izquierda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/jefe_muerto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/malo_muerto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/medalla.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/images/space.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Clase12/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/game.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/js/videojuego-javascript.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Clase10.zip" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/bg-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/client-pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/footer-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/iPad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/list-style.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/macbook-pro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/pw_maze_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/pw_maze_black_2X.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/res_nav_click.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/section-bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/section-bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/small-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/team-leader-pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/team-leader-pic2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/team-leader-pic3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/wp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,36 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PrimeraClaseJavascript/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selectores.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase9/selectores.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selectores.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase9/selectores.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="83" lean-forward="false" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Clase10/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,11 +118,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="game.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProyectoIBim/game.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -181,6 +186,7 @@
         <option value="$PROJECT_DIR$/Clase11/index.html" />
         <option value="$PROJECT_DIR$/Clase11/script.js" />
         <option value="$PROJECT_DIR$/Clase12/index.html" />
+        <option value="$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css" />
       </list>
     </option>
   </component>
@@ -228,12 +234,6 @@
               <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript" type="462c0819:PsiDirectoryNode" />
               <item name="ProyectoIBim" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="ProyectoIBim" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -251,11 +251,124 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim\js" />
+      <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim\img" />
       <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim" />
+      <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alex\Documents\GitHub\Javascript\Clase10" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ProyectoIBim/testCommit.txt</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -287,7 +400,7 @@
       <workItem from="1511378818747" duration="4655000" />
       <workItem from="1511897229436" duration="1720000" />
       <workItem from="1511985751997" duration="16000" />
-      <workItem from="1512329943650" duration="165000" />
+      <workItem from="1512329943650" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="Clase 7 Javascript">
       <created>1510091847715</created>
@@ -300,7 +413,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25199000" />
+    <option name="totallyTimeSpent" value="27225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -339,30 +452,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Clase9/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Clase9/javascript-dom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Clase9/selectores.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Clase9/selectores.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -739,7 +828,31 @@
     <entry file="file://$PROJECT_DIR$/ProyectoIBim/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
