@@ -9,6 +9,7 @@ window.requestAnimFrame = (function () {
             window.setTimeout(callback, 1000 / 60);
         };
 })();
+
 arrayRemove = function (array, from) {
     var rest = array.slice((from) + 1 || array.length);
     array.length = from < 0 ? array.length + from : from;
