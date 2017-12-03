@@ -2,47 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bd73284-6246-4bd3-a96a-075ef539b960" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/Portfolio-pic6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/bg-map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/c-liogo5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/client-pic1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/footer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/iPad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/list-style.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/macbook-pro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/pw_maze_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/pw_maze_black_2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/res_nav_click.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/section-bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/section-bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/small-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/team-leader-pic1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/team-leader-pic2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/team-leader-pic3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/img/wp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProyectoIBim/fonts/fontawesome-webfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProyectoIBim/css/animate.css" afterPath="$PROJECT_DIR$/ProyectoIBim/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css" afterPath="$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProyectoIBim/index.html" afterPath="$PROJECT_DIR$/ProyectoIBim/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,48 +25,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase10/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="12" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
-              <folding>
-                <element signature="e#1552#1558#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase10/javascript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="42" column="5" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase11/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase11/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Clase12/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="616">
@@ -111,8 +37,28 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="45" column="7" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="651" column="9" lean-forward="false" selection-start-line="651" selection-start-column="8" selection-end-line="651" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -131,28 +77,48 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProyectoIBim/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="2733" column="25" lean-forward="false" selection-start-line="2733" selection-start-column="25" selection-end-line="2733" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="596" column="8" lean-forward="false" selection-start-line="596" selection-start-column="8" selection-end-line="596" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProyectoIBim/js/bootstrap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            <state relative-caret-position="-2072">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -167,6 +133,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -186,6 +157,8 @@
         <option value="$PROJECT_DIR$/Clase11/index.html" />
         <option value="$PROJECT_DIR$/Clase11/script.js" />
         <option value="$PROJECT_DIR$/Clase12/index.html" />
+        <option value="$PROJECT_DIR$/ProyectoIBim/css/animate.css" />
+        <option value="$PROJECT_DIR$/ProyectoIBim/index.html" />
         <option value="$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css" />
       </list>
     </option>
@@ -234,7 +207,7 @@
               <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript" type="462c0819:PsiDirectoryNode" />
               <item name="ProyectoIBim" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,6 +224,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim\fonts" />
       <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim\js" />
       <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim\img" />
       <recent name="C:\Users\Alex\Documents\GitHub\Javascript\ProyectoIBim" />
@@ -400,7 +374,7 @@
       <workItem from="1511378818747" duration="4655000" />
       <workItem from="1511897229436" duration="1720000" />
       <workItem from="1511985751997" duration="16000" />
-      <workItem from="1512329943650" duration="2191000" />
+      <workItem from="1512329943650" duration="3920000" />
     </task>
     <task id="LOCAL-00001" summary="Clase 7 Javascript">
       <created>1510091847715</created>
@@ -413,7 +387,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27225000" />
+    <option name="totallyTimeSpent" value="28954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -452,40 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Clase9/selectores.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="83" lean-forward="false" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Clase10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="e#1552#1558#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Clase10/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Clase11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Clase11/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -553,7 +493,7 @@
         <state relative-caret-position="1925">
           <caret line="77" column="72" lean-forward="false" selection-start-line="77" selection-start-column="72" selection-end-line="77" selection-end-column="72" />
           <folding>
-            <element signature="e#1552#1558#1" expanded="true" />
+            <element signature="e#1552#1558#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -625,7 +565,7 @@
         <state relative-caret-position="200">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
-            <element signature="e#1552#1558#1" expanded="true" />
+            <element signature="e#1552#1558#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -780,7 +720,7 @@
         <state relative-caret-position="625">
           <caret line="25" column="12" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
           <folding>
-            <element signature="e#1552#1558#1" expanded="true" />
+            <element signature="e#1552#1558#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -817,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProyectoIBim/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -833,26 +765,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="300">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="2733" column="25" lean-forward="false" selection-start-line="2733" selection-start-column="25" selection-end-line="2733" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="45" column="7" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="651" column="9" lean-forward="false" selection-start-line="651" selection-start-column="8" selection-end-line="651" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="596" column="8" lean-forward="false" selection-start-line="596" selection-start-column="8" selection-end-line="596" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProyectoIBim/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="350">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProyectoIBim/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/ProyectoIBim/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-2072">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
