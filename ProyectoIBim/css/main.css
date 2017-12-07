@@ -1,6 +1,6 @@
 body {
-    background: #ccc;
-    color: #333;
+    background:url(../img/pw_maze_black_2X.png) left top repeat;
+    color: #fff;
     font: 14px 'Arial',sans-serif;
     text-align: center;
 }
